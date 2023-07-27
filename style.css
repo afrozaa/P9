@@ -1,3 +1,36 @@
+html{
+    background-image: url(https://media.istockphoto.com/id/470928468/photo/the-silhouette-of-fishing-boat-on-beach-bangladesh.jpg?s=612x612&w=0&k=20&c=a46laqtwn1PKqXRzOVwUVkPAgzRaVw6NuIbpjIgdjHk=)
+}
+
+h1{
+    border-style: solid dotted dashed ridge;
+    border-width: 5px 10px 15px 20px;
+    border-color:rgb(189, 101, 101) rgb(71, 183, 211) rgb(26, 119, 122) rgb(96, 136, 96);
+}
+.class1{
+    color:red;
+}
+p{
+    
+    color:gray;
+
+}
+.class1{
+    background-image: url("Mahindra-Thar-1.jpg");
+     background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: top;
+    height: 1000px;
+    width: 2000%;
+}
+.class1 h1{
+    color: blueviolet;
+}
+.class1 #pfirst{
+    color:cyan;
+    background-color: brown;
+}
+
 h1{
     border-style: solid dotted dashed ridge;
     border-width: 5px 10px 15px 20px;
